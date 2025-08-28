@@ -26,7 +26,7 @@ AdilOps is a Fleetbase of modular logistics and supply chain operating system de
 **Quickstart**
 
 ```bash
-git clone git@github.com:Amber025/AdilOps.git
+git clone git@github.com:Aadil-SA22/AdilOps.git
 cd AdilOps && ./scripts/docker-install.sh
 ```
 
