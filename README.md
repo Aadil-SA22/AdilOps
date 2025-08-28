@@ -1,7 +1,7 @@
 <div id="hero">
   <p align="center" dir="auto">
       <a>
-        <img src="images/Logo-AdilOps.png" alt="Fleetbase logo" width="300" height="320" style="max-width: 100%;">
+        <img src="images/Logo-AdilOpss.png" alt="Fleetbase logo" width="300" height="320" style="max-width: 100%;">
       </a>
     </p>
     <p align="center" dir="auto">
