@@ -5,7 +5,7 @@
       </a>
     </p>
     <p align="center" dir="auto">
-      Modular logistics and supply chain operating system
+     Modular Supply Chain Architecture
       <br>
       <a href="https://docs.fleetbase.io/" rel="nofollow" target="_fleetbase_docs">Documentation</a>
       ·
