@@ -17,7 +17,7 @@
 
 ## What is AdilOps?
 
-AdilOps is a Fleetbase of modular logistics and supply chain operating system designed to streamline management, planning, optimization, and operational control across various sectors of the supply chain industry.
+AdilOps is a  modular logistics and supply chain operating system designed to streamline management, planning, optimization, and operational control across various sectors of the supply chain industry.
 
 <p align="center" dir="auto">
   <img src="https://github.com/fleetbase/fleetbase/assets/816371/125348c9-c88a-49fe-b098-9abec9d7dff8" alt="Fleetbase Console" width="1200" style="max-width: 100%;" />
