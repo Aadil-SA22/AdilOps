@@ -7,9 +7,9 @@
     <p align="center" dir="auto">
      Modular Logistics and Supply Chain Operating System
       <br>
-      <a href="https://docs.fleetbase.io/" rel="nofollow" target="_fleetbase_docs">Documentation</a>
+      <a href="https://github.com/Aadil-SA22/AdilOps/blob/1ccd0b8ccf6a286cc570069cc2c9067c4d1456b1/images/AdilOps%20report.pdf" rel="nofollow" target="_fleetbase_docs">Documentation</a>
       ·
-      <a href="https://console.fleetbase.io" rel="nofollow" target="_fleetbase_console">Cloud Version</a>
+      <a href="https://github.com/Aadil-SA22/AdilOps/blob/1ccd0b8ccf6a286cc570069cc2c9067c4d1456b1/images/AdilOps.pdf" rel="nofollow" target="_fleetbase_console">Research Paper</a>
       ·
     </p>
     <hr />
